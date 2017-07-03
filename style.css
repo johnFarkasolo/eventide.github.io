@@ -286,6 +286,8 @@ font-family: 'Montserrat', sans-serif;
 	background: url(img/map.jpg);
 	background-size: cover;
 	background-position: 100% 100%;
+	min-height: 200px;
+    height: 50%;
 }
 /*===========================contact==================*/
 #contact {
