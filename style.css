@@ -282,13 +282,7 @@ font-family: 'Montserrat', sans-serif;
 	padding: 100px 0;
 }
 /*=========================map==========================*/
-#map {
-	background: url(img/map.jpg);
-	background-size: cover;
-	background-position: 100% 100%;
-	min-height: 350px;
-    	height: 100%;
-}
+
 /*===========================contact==================*/
 #contact {
 	background-color: #525b64;
@@ -303,7 +297,7 @@ font-family: 'Montserrat', sans-serif;
 	font-weight: 500;
 }
 .contact-title a {
-	padding-right: 15px;
+	margin-right: 15px;
 }
 .contact-help a {
 	text-transform: none;
