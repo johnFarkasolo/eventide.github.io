@@ -17,7 +17,7 @@ $(function(){
 	});
 
 	new WOW({
-		offset: 20
+		offset: 0
 	}).init();
 
 });
